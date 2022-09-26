@@ -1,0 +1,10 @@
+See demos:
+  * threaded gui:   Process and Events~DelayedResult
+  * rich text:      More Windows/Controls~RichTextCtrl
+  * notebooks:      "Books" Controls
+  * notebook:       Advanced Generic Widgets~LabelBook
+  * notebook:       Advanced Generic Widgets~FlatNotebook
+  * property edit:  More Windows/Controls~PropertyGrid
+  * grids:          More Windows/Grid*
+  * menu/toolbar:   Advanced Generic Widgets~FlatMenu
+  * Clipboard/DnD:  Clipboard and DnD
